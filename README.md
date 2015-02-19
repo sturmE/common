@@ -1,0 +1,1 @@
+# Stuff I keep copying between projects
